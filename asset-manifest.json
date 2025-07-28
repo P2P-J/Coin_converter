@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Coin_converter/static/css/main.bb22908e.css",
+    "main.js": "/Coin_converter/static/js/main.ed3cd428.js",
+    "index.html": "/Coin_converter/index.html",
+    "main.bb22908e.css.map": "/Coin_converter/static/css/main.bb22908e.css.map",
+    "main.ed3cd428.js.map": "/Coin_converter/static/js/main.ed3cd428.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bb22908e.css",
+    "static/js/main.ed3cd428.js"
+  ]
+}
